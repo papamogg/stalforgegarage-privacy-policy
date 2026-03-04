@@ -1,5 +1,5 @@
 # Privacy Policy for SlimeSpec
-Effective Date: March 3, 2026
+Last Updated: March 3, 2026
 
 Papa Mog ("we," "us," or "our") built the SlimeSpec app (the "Service"). This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
