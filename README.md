@@ -10,8 +10,10 @@ Because your data is stored locally, you maintain complete control over it. Unin
 
 ## 2. Third-Party Services and In-App Purchases
 While we do not collect personal data on our own servers, our app utilizes third-party services to handle in-app purchases and subscriptions. These services may collect information used to identify you, process your payments, and manage your subscription status.
+
 **RevenueCat**: We use RevenueCat to manage our in-app purchases and subscriptions. When you make a purchase, RevenueCat receives receipt data from the app store (Apple App Store or Google Play Store) to validate the purchase and grant you access to premium features. RevenueCat may collect anonymous user IDs, device information, and purchase history.
 •	You can read RevenueCat's Privacy Policy here: https://www.revenuecat.com/privacy
+
 **App Stores (Apple & Google)**: All financial transactions are processed securely by the respective app stores (Apple App Store for iOS devices, Google Play Store for Android devices). We never see, collect, or store your credit card information, billing address, or payment details.
 •	Apple Privacy Policy: https://www.apple.com/legal/privacy/
 •	Google Privacy Policy: https://policies.google.com/privacy
