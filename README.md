@@ -57,13 +57,13 @@ We cannot see, access, or share the photos you take. They remain under your tota
 ## 8. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
 
-**Redacting Personal Information**
+**Redacting Personal Information**<br>
 Before taking or storing photos of documents (such as vehicle titles, registration, or maintenance receipts), we strongly recommend redacting or "blacking out" sensitive personal details. This includes your home address, social security numbers, and financial information.
 
-**Transfer of Ownership**
+**Transfer of Ownership**<br>
 If you intend to show the App to a potential buyer or transfer your vehicle to another person, remember that any images you have stored will be visible to them if they have access to your device.
 
-**Sanitize Before Sale**
+**Sanitize Before Sale**<br>
 Before handing over any records, please review your stored images and delete any that contain information you do not wish to share with the new owner.
 
 ## 9. Changes to This Privacy Policy
