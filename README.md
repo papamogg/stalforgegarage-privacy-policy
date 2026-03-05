@@ -1,5 +1,5 @@
 # Privacy Policy for SlimeSpec
-Last Updated: March 3, 2026
+Last Updated: March 4, 2026
 
 Papa Mog ("we," "us," or "our") built the SlimeSpec app (the "Service"). This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
@@ -82,10 +82,10 @@ Consistent with our privacy-first approach, we do not collect, transfer, or stor
 
 **Accessibility**: We are committed to making this Privacy Policy accessible to all users. If you require this policy in an alternative format, please contact us.
 
-## 9. Children’s Privacy
+## 10. Children’s Privacy
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information (for example, through an app store purchase), please contact the respective app store to manage those transactions.
 
-## 10. Camera & Photo Library Access
+## 11. Camera & Photo Library Access
 The App requires access to your device's camera to function. Here is how that access is used:
 
 **Purpose**<br>
@@ -99,7 +99,7 @@ We cannot see, access, or share the photos you take. They remain under your tota
 
 Again, SlimeSpec uses your camera to capture vehicle records. Photos are stored locally on your device and are never uploaded to our servers or shared with third parties.
 
-## 11. User Responsibility: Protecting Your Privacy
+## 12. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
 
 **Redacting Personal Information**<br>
@@ -111,10 +111,10 @@ If you intend to show the App to a potential buyer or transfer your vehicle to a
 **Sanitize Before Sale**<br>
 Before handing over any records, please review your stored images and delete any that contain information you do not wish to share with the new owner.
 
-## 12. Changes to This Privacy Policy
+## 13. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
-## 13. Contact Us
+## 14. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 - **Email**: support@slimespec.com
 - **Website**: privacy-policy.papamog.com
