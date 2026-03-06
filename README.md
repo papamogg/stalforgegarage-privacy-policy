@@ -1,7 +1,7 @@
 # Privacy Policy for SlimeSpec
 Last Updated: March 4, 2026
 
-Papa Mog ("we," "us," or "our") built the SlimeSpec app (the "Service"). This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
+Our top Priority is your privacy. This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
 
 ## 1. Information Collection and Use
