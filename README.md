@@ -116,8 +116,8 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 14. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-- **Email**: support@slimespec.com
+**Email**: support@slimespec.com<br>
 or hop on over in our discord server and open up a ticket with us at:
-- https://discord.gg/PvSxeTEg
+https://discord.gg/PvSxeTEg<br>
 Alternatively, you can view our Privacy Policy at:
-- privacy-policy.slimespec.com
+privacy-policy.slimespec.com
