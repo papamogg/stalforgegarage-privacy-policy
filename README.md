@@ -122,4 +122,4 @@ or hop on over in our discord server and open up a ticket with us at:<br>
 https://discord.gg/PvSxeTEg<br>
 
 Alternatively, you can view our Privacy Policy at:<br>
-privacy-policy.slimespec.com
+https://privacy-policy.slimespec.com
