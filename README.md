@@ -115,9 +115,11 @@ Before handing over any records, please review your stored images and delete any
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
 ## 14. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:<br>
 **Email**: support@slimespec.com<br>
-or hop on over in our discord server and open up a ticket with us at:
+
+or hop on over in our discord server and open up a ticket with us at:<br>
 https://discord.gg/PvSxeTEg<br>
-Alternatively, you can view our Privacy Policy at:
+
+Alternatively, you can view our Privacy Policy at:<br>
 privacy-policy.slimespec.com
