@@ -1,11 +1,11 @@
-# Privacy Policy for StalForge Garage
+# Privacy Policy for CeraSpec
 Last Updated: March 22, 2026
 
 Our top Priority is your privacy. This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
 
 ## 1. Information Collection and Use
-**Local Data Storage**: The core functionality of StalForge Garage relies entirely on local storage. Any data, content, or preferences you create or input into the app are stored locally on your device. We do not have access to this data, nor do we transmit, store, or process this data on any external servers owned or operated by us.
+**Local Data Storage**: The core functionality of CeraSpec relies entirely on local storage. Any data, content, or preferences you create or input into the app are stored locally on your device. We do not have access to this data, nor do we transmit, store, or process this data on any external servers owned or operated by us.
 Because your data is stored locally, you maintain complete control over it. Uninstalling the app or clearing the app's cache/data from your device settings will permanently delete this locally stored data.
 
 ## 2. Third-Party Services and In-App Purchases
@@ -27,19 +27,19 @@ We value your trust in providing us with your information. Because your primary 
 ## 5. Your Data Protection Rights Under CCPA, CPRA, and CalOPPA
 If you are a California resident, you are granted specific rights regarding access to your personal information under the California Consumer Privacy Act (CCPA), its amendment, the California Privacy Rights Act (CPRA), and the California Online Privacy Protection Act (CalOPPA).
 
-Because StalForge Garage is built with a privacy-first, local-storage architecture, we do not collect, store, sell, or share your primary app data.
+Because CeraSpec is built with a privacy-first, local-storage architecture, we do not collect, store, sell, or share your primary app data.
 
 **Under the CCPA and CPRA, you have the following rights:**<br>
 - **The Right to Know**: You have the right to request information about the categories and specific pieces of personal data we have collected about you over the past 12 months. (As stated, your core data is local, and we do not collect it).
 - **The Right to Delete**: You have the right to request the deletion of your personal data. Because your data is stored locally, you can exercise this right at any time by uninstalling the app or clearing the app’s data on your device.
-- **The Right to Correct (CPRA)**: You have the right to request the correction of inaccurate personal information. You can edit any of your data directly within the StalForge Garage app.
+- **The Right to Correct (CPRA)**: You have the right to request the correction of inaccurate personal information. You can edit any of your data directly within the CeraSpec app.
 - **The Right to Opt-Out of Sale or Sharing**: We do not sell or share your personal data to third parties. Thus, there is no need to opt-out.
 - **The Right to Limit the Use of Sensitive Personal Information (CPRA)**: We do not collect or process sensitive personal information on our servers.
 - **The Right to Non-Discrimination**: We will not discriminate against you for exercising any of your consumer privacy rights.
 
 **Under CalOPPA, we make the following disclosures:**<br>
 - **Anonymous Access**: Users can visit our app and website anonymously.
-- **Do Not Track (DNT) Signals**: Because StalForge Garage does not track its users over time and across third-party websites to provide targeted advertising, we do not respond to Do Not Track (DNT) signals.
+- **Do Not Track (DNT) Signals**: Because CeraSpec does not track its users over time and across third-party websites to provide targeted advertising, we do not respond to Do Not Track (DNT) signals.
 - **Policy Changes**: You will be notified of any Privacy Policy changes on our Privacy Policy page.
 - **Reviewing Data**: You can review and change your personal data natively within the app interface.
 
@@ -48,7 +48,7 @@ If you wish to exercise your California privacy rights concerning your financial
 ## 6. Other US State Privacy Rights
 Depending on your state of residence, including but not limited to Virginia (VCDPA), Colorado (CPA), Connecticut (CTDPA), Utah (UCPA), Texas (TDPSA), and others, you may have specific rights regarding your personal data.
 
-Because StalForge Garage operates entirely on a local-storage architecture, we do not collect, process, sell, or use your personal data for targeted advertising or profiling. As a resident of these states, your rights include:
+Because CeraSpec operates entirely on a local-storage architecture, we do not collect, process, sell, or use your personal data for targeted advertising or profiling. As a resident of these states, your rights include:
 - **The Right to Access and Data Portability**: You can access and export your data directly within the app.
 - **The Right to Correction and Deletion**: You can edit your data in the app, or permanently delete it by uninstalling the app or clearing its local cache.
 - **The Right to Opt-Out**: Because we do not sell your personal data or process it for targeted advertising, there is no need to opt-out.
@@ -76,9 +76,9 @@ If you are a resident of Canada, Brazil, or other jurisdictions with comprehensi
 Consistent with our privacy-first approach, we do not collect, transfer, or store your primary app data on our servers. You maintain total control over your information locally on your device. You can exercise your rights to access, rectify, and erase your data directly through the app’s interface or by uninstalling the app from your device.
 
 ## 9. Data Retention and Appeals
-**Data Retention**: Because StalForge Garage stores data locally, we retain your information only as long as the app remains installed on your device. For data processed by third-party services (RevenueCat and App Stores), data is retained according to their respective retention policies to fulfill legal obligations and manage your subscriptions.
+**Data Retention**: Because CeraSpec stores data locally, we retain your information only as long as the app remains installed on your device. For data processed by third-party services (RevenueCat and App Stores), data is retained according to their respective retention policies to fulfill legal obligations and manage your subscriptions.
 
-**Right to Appeal**: If you have made a request regarding your data privacy and believe it was not adequately addressed, you have the right to appeal our decision. Please contact us at support@StalForge Garage.com with the subject line "Privacy Appeal." We will respond to your appeal within 45 days.
+**Right to Appeal**: If you have made a request regarding your data privacy and believe it was not adequately addressed, you have the right to appeal our decision. Please contact us at support@CeraSpec.com with the subject line "Privacy Appeal." We will respond to your appeal within 45 days.
 
 **Accessibility**: We are committed to making this Privacy Policy accessible to all users. If you require this policy in an alternative format, please contact us.
 
@@ -97,7 +97,7 @@ All image processing happens locally on your device.
 **Privacy**<br>
 We cannot see, access, or share the photos you take. They remain under your total control.
 
-Again, StalForge Garage uses your camera to capture vehicle records. Photos are stored locally on your device and are never uploaded to our servers or shared with third parties.
+Again, CeraSpec uses your camera to capture vehicle records. Photos are stored locally on your device and are never uploaded to our servers or shared with third parties.
 
 ## 12. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
@@ -116,10 +116,10 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 14. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:<br>
-**Email**: support@StalForge Garage.com<br>
+**Email**: support@CeraSpec.com<br>
 
 or hop on over in our discord server and open up a ticket with us at:<br>
 https://discord.gg/PvSxeTEg<br>
 
 Alternatively, you can view our Privacy Policy at:<br>
-https://privacy-policy.StalForge Garage.com
+https://privacy-policy.CeraSpec.com
